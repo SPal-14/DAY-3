@@ -13,7 +13,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=SPal-14&color=blue)&nbsp;
 [![GitHub SPal-14](https://img.shields.io/github/followers/SPal-14?label=follow&style=social)](https://github.com/SPal-14)&nbsp;
 
-# Basic Details
+#  💠 Basic Details
 **Name**-*Souvik Pal*
 
 **City where I stay**-*Kolkata*
@@ -42,7 +42,7 @@
 <a href="https://facebook.com/souvik.pal.75098364"><img src="https://img.shields.io/badge/-@SPal-14?style=flat&logo=Facebook&logoColor=white"/></a>
 [![](https://img.shields.io/badge/-@Souvik-%23181717?style=flat-square&logo=github)](https://github.com/SPal-14)
 
-## Here is my skills
+##  💠 Here is my skills
 |S.No| Skills|
 |---|---|
 |1.| Java|
@@ -50,7 +50,7 @@
 |3.| C|
 |4.| Html|
 
-## Courses
+##  💠 Courses
 
 1.Coursera
 
@@ -58,7 +58,7 @@
 
 3.Unacademy
 
-## Here is the link of my GitHub
+##  💠 Here is the link of my GitHub
 [Click here](https://github.com/SPal-14)
 
 
