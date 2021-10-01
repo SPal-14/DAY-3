@@ -1,12 +1,24 @@
-# *Hi there !!!*  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px "> **I am Souvik Pal of NSEC, first year, CSE branch.....** 
+<h1 align="center"> 
+  Hi there !!! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px ">
+</h1>
+<h3 align="center">I am Souvik Pal of NSEC, first year, CSE branch.....</h3>
+
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+
+
+
+
 ![profile count](https://komarev.com/ghpvc/?username=SPal-14&color=blue)&nbsp;
 [![GitHub SPal-14](https://img.shields.io/github/followers/SPal-14?label=follow&style=social)](https://github.com/SPal-14)&nbsp;
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 # Basic Details
 **Name**-*Souvik Pal*
 
 **City where I stay**-*Kolkata*
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <img src="https://img.icons8.com/bubbles/100/000000/kolkata.png"/>
 
@@ -15,7 +27,7 @@
 
 **College City**- *Kolkata, Garia*
 
-### 🛠 &nbsp;Programming languages I love ❤️
+### 🛠 &nbsp;Programming languages and tools I love ❤️
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
