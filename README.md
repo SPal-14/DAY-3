@@ -28,4 +28,4 @@ I am Souvik Pal of NSEC, first year, CSE branch
 3.Unacademy
 
 ## Here is the link of my GitHub
-[Click here][https://github.com/SPal-14]
+[Click here](https://github.com/SPal-14)
