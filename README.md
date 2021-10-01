@@ -1,4 +1,5 @@
-# Introduction
+# Introduction 
+
 I am Souvik Pal of NSEC, first year, CSE branch
 
 # Basic Details
@@ -24,7 +25,9 @@ I am Souvik Pal of NSEC, first year, CSE branch
 ## Courses
 
 1.Coursera
+
 2.Byjus
+
 3.Unacademy
 
 ## Here is the link of my GitHub
