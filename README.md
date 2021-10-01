@@ -28,6 +28,7 @@
 ### 📫 &nbsp; How to reach me:
 <a href="mailto:kolkatasouvik1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://facebook.com/souvik.pal.75098364"><img src="https://img.shields.io/badge/-@SPal-14?style=flat&logo=Facebook&logoColor=white"/></a>
+[![](https://img.shields.io/badge/-@Souvik-%23181717?style=flat-square&logo=github)](https://github.com/SPal-14)
 
 ## Here is my skills
 |S.No| Skills|
