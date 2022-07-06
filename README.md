@@ -1,7 +1,7 @@
 <h1 align="center"> 
   Hi there !!! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px ">
 </h1>
-<h3 align="center">I am Souvik Pal of NSEC, first year, CSE branch.....</h3>
+<h3 align="center">I am Souvik Pal of NSEC, 2nd year, CSE branch.....</h3>
 
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
