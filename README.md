@@ -139,17 +139,6 @@
 <br>
 <br>
 
-# 📫 &nbsp;How to Reach Me:
-
-<div align=center>
-<a href="mailto:kolkatasouvik1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/souvik-pal-7abbb7234/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> &nbsp;
-<a href="https://facebook.com/souvik.pal.75098364"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a> &nbsp;
-</div>
-
-<br>
-<br>
-
 # 💠 Skills
 
 <table align="center">
@@ -187,6 +176,10 @@
   </tr>
 </table>
 
+
+<br>
+<br>
+
 # 💠 GitHub Stats
 
 <div align="center">
@@ -199,8 +192,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPal-14&layout=compact&theme=algolia" height="150" alt="top languages" />
 </div>
 
+
+
 <br>
 <br>
+
+# 📫 &nbsp;How to Reach Me:
+
+<div align=left>
+<a href="mailto:kolkatasouvik1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/souvik-pal-7abbb7234/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> &nbsp;
+<a href="https://facebook.com/souvik.pal.75098364"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a> &nbsp;
+</div>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
