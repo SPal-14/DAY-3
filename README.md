@@ -19,7 +19,7 @@
 
 **Experience** : Currently working as a part-time backend developer at *ClearSpot.ai*. <p>Previously worked at *Aecho.ai* as a Developer Intern.</p>
 
-**Interested in me? Check <a href="https://drive.google.com/file/d/1vsvsVK2vnpBLieB-C_PH12SQG40ER2j5/view?usp=sharing">this</a> !** 
+**Interested in me? Check <a href="https://drive.google.com/file/d/10EeH-ajm9RveuTaOu0FhFbOjqw5O6Vyh/view?usp=sharing">this</a> !** 
 
 <br>
 <br>
